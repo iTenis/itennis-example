@@ -1,0 +1,22 @@
+server:
+  port: 8088
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://kuaishou:kuaishou@dds-bp1ed26b3daafb041664-pub.mongodb.rds.aliyuncs.com:3717,dds-bp1ed26b3daafb042186-pub.mongodb.rds.aliyuncs.com:3717/ks_dev?replicaSet=mgset-12907627&authMechanism=SCRAM-SHA-1&authSource=admin
+
+logging:
+  level:
+    org.springframework.web: debug
+    org.apache.ibatis: off
+    java.sql.PreparedStatement: off
+    druid.sql.Statement: off
+    com.xuxueli.crawler: warn
+    org.jsoup.*: info
+    com.xuxueli.crawler.util.JsoupUtil: off
+    com.itennishy.spider: info
+    sun.nio.cs.StreamDecoder: off
+  path: logs/
+  file:
+    max-size: 1GB
