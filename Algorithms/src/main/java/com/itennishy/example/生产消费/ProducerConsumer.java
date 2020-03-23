@@ -10,7 +10,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @author xiehuishegn@hotmail.com
+ * @author xiehuisheng@hotmail.com
  * @version 1.0
  * @date 2020-03-20 18:08
  */

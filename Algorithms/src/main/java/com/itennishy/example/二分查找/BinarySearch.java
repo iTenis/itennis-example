@@ -3,7 +3,7 @@ package com.itennishy.example.二分查找;
 import java.util.Arrays;
 
 /**
- * @author xiehuishegn@hotmail.com
+ * @author xiehuisheng@hotmail.com
  * @version 1.0
  * @date 2020-03-20 18:06
  */

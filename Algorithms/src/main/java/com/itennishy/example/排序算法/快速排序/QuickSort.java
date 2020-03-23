@@ -3,7 +3,7 @@ package com.itennishy.example.排序算法.快速排序;
 import java.util.Arrays;
 
 /**
- * @author xiehuishegn@hotmail.com
+ * @author xiehuisheng@hotmail.com
  * @version 1.0
  * @date 2020-03-20 16:49
  */
