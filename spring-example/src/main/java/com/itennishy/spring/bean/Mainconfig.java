@@ -1,9 +1,7 @@
 package com.itennishy.spring.bean;
 
 import com.itennishy.spring.filter.MyFilter;
-import com.itennishy.spring.service.PersonService;
 import org.springframework.context.annotation.*;
-import org.springframework.stereotype.Service;
 
 
 @Configuration

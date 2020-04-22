@@ -1,6 +1,5 @@
 package com.itennishy.spring.bean;
 
-import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.FactoryBean;
 
 public class ColorFactory implements FactoryBean<Color> {

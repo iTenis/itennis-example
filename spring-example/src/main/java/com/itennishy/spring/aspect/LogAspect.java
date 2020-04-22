@@ -5,7 +5,6 @@ import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.*;
 
 import java.util.Arrays;
-import java.util.concurrent.Executors;
 
 @Aspect
 public class LogAspect {
