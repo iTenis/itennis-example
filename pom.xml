@@ -17,6 +17,7 @@
         <module>Algorithms</module>
         <module>zxing-example</module>
         <module>proxy-example</module>
+        <module>exception-example</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
