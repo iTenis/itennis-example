@@ -6,8 +6,6 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 /**
  * 异常统一处理类，方便用户可以更加友好的看到错误信息
  *
- * @author: wujian
- * @time: 2019/11/9
  */
 @RestControllerAdvice
 public class GlobalExceptionHandler {

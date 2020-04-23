@@ -10,8 +10,6 @@ import java.util.Map;
 /**
  * 默认控制器
  *
- * @author: wujian
- * @time: 2019/11/9
  */
 @RestController
 public class TestController {
