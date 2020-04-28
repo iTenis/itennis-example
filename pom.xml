@@ -18,6 +18,9 @@
         <module>zxing-example</module>
         <module>proxy-example</module>
         <module>exception-example</module>
+        <module>base-test-example</module>
+        <module>read-file-example</module>
+        <module>itennis-mybatis</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
